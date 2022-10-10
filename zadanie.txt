@@ -1,0 +1,3 @@
+Dodac nowy component z input
+gdzie input jest number i za pomoca niego zmieniamy dodawanie liczb
+przy przycisnieciu reset ma zresetowac wszystko, inputa do 1 i add do 1
